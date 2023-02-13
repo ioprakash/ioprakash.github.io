@@ -3898,7 +3898,7 @@ input[type=number] {
 @media (max-width: 768px) {
   .dizme_tm_hero .avatar img {
     max-width: 220px;
-    max-height: 220px;
+    max-height: 275px;
   }
 }
 
